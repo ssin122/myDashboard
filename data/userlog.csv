@@ -1,4 +1,4 @@
-logId,datetime,sessionId,sessionSeq,sectionFrom,sectionCurr,moduleFrom,moduleCurrent,value,annotationType,annotationText,studentID, timeSpent
+logId,datetime,sessionId,sessionSeq,sectionFrom,sectionCurr,moduleFrom,moduleCurrent,value,annotationType,annotationText,studentID,timeSpent
 1,1/1/2017,1000001,1,1,2,1,1,1,1,matplotlib is great but I hate it,101,20
 2,1/1/2017,1000001,2,2,3,1,1,1,1,this is confusing,101,36
 3,1/1/2017,1000001,3,2,3,1,1,1,2,Please if you can explain this more,101,12
