@@ -1,26 +1,26 @@
-logId,datetime,sessionId,sessionSeq,sectionFrom,sectionCurr,moduleFrom,moduleCurrent,value,annotationType,annotationText,studentID
-1,1/1/2017,1000001,1,1,2,1,1,1,1,matplotlib is great but I hate it,101
-2,1/1/2017,1000001,2,2,3,1,1,1,1,this is confusing,101
-3,1/1/2017,1000001,3,2,3,1,1,1,2,Please if you can explain this more,101
-4,1/1/2017,1000001,4,2,3,1,1,1,2,I am happy,101
-5,1/1/2017,1000001,5,3,4,1,1,1,3,I dont think colour blindness is a problem,101
-6,1/1/2017,1000001,6,3,5,1,1,1,3,library is not important,101
-7,1/1/2017,1000001,7,5,8,2,2,1,4,wow such a interesting stuff,101
-8,1/1/2017,1000001,8,8,3,2,1,1,4,this looks cool,101
-9,1/1/2017,1000001,9,3,1,1,1,1,5,wow what a nightmare,101
-10,1/2/2017,1000002,1,1,4,1,1,1,5,I am appaled,102
-11,1/2/2017,1000002,2,4,5,1,2,1,1,i am happy,102
-12,1/2/2017,1000002,3,5,2,2,1,1,1,Is is done in FIT5211,102
-13,1/2/2017,1000002,4,2,3,1,1,1,2,Rugby is more interesting,102
-14,1/2/2017,1000002,5,2,3,1,1,1,2,,102
-15,1/2/2017,1000002,6,3,4,1,1,1,3,this is confusing,102
-16,1/3/2017,1000003,1,1,2,1,1,1,3,I am going home now,101
-17,1/4/2017,1000004,1,2,3,1,1,1,4,this is done just for the sake,102
-18,1/5/2017,1000005,1,3,4,1,1,1,4,this is confusing,103
-19,1/5/2017,1000005,2,1,2,1,1,1,5,I am not too sure,103
-20,1/5/2017,1000005,3,1,4,1,1,1,5,New Zealand,103
-21,1/5/2017,1000005,4,1,5,1,2,1,1,I am not too sure,103
-22,1/9/2017,1000009,1,1,2,1,1,1,1,Please help me,104
-23,1/10/2017,1000010,1,2,3,1,1,1,2,Message 4,101
-24,1/11/2017,1000011,1,3,4,1,1,1,2,Test Messsage,102
-25,1/12/2017,1000012,1,4,5,1,2,1,3,Wonderful,101
+logId,datetime,sessionId,sessionSeq,sectionFrom,sectionCurr,moduleFrom,moduleCurrent,value,annotationType,annotationText,studentID, timeSpent
+1,1/1/2017,1000001,1,1,2,1,1,1,1,matplotlib is great but I hate it,101,20
+2,1/1/2017,1000001,2,2,3,1,1,1,1,this is confusing,101,36
+3,1/1/2017,1000001,3,2,3,1,1,1,2,Please if you can explain this more,101,12
+4,1/1/2017,1000001,4,2,3,1,1,1,2,I am happy,101,45
+5,1/1/2017,1000001,5,3,4,1,1,1,3,I dont think colour blindness is a problem,101,7
+6,1/1/2017,1000001,6,3,5,1,1,1,3,library is not important,101,65
+7,1/1/2017,1000001,7,5,8,2,2,1,4,wow such a interesting stuff,101,9
+8,1/1/2017,1000001,8,8,3,2,1,1,4,this looks cool,101,32
+9,1/1/2017,1000001,9,3,1,1,1,1,5,wow what a nightmare,101,5
+10,1/2/2017,1000002,1,1,4,1,1,1,5,I am appaled,102,22
+11,1/2/2017,1000002,2,4,5,1,2,1,1,i am happy,102,45
+12,1/2/2017,1000002,3,5,2,2,1,1,1,Is is done in FIT5211,102,44
+13,1/2/2017,1000002,4,2,3,1,1,1,2,Rugby is more interesting,102,32
+14,1/2/2017,1000002,5,2,3,1,1,1,2,,102,34
+15,1/2/2017,1000002,6,3,4,1,1,1,3,this is confusing,102,56
+16,1/3/2017,1000003,1,1,2,1,1,1,3,I am going home now,101,6
+17,1/4/2017,1000004,1,2,3,1,1,1,4,this is done just for the sake,102,33
+18,1/5/2017,1000005,1,3,4,1,1,1,4,this is confusing,103,22
+19,1/5/2017,1000005,2,1,2,1,1,1,5,I am not too sure,103,45
+20,1/5/2017,1000005,3,1,4,1,1,1,5,New Zealand,103,21
+21,1/5/2017,1000005,4,1,5,1,2,1,1,I am not too sure,103,7
+22,1/9/2017,1000009,1,1,2,1,1,1,1,Please help me,104,76
+23,1/10/2017,1000010,1,2,3,1,1,1,2,Message 4,101,34
+24,1/11/2017,1000011,1,3,4,1,1,1,2,Test Messsage,102,33
+25,1/12/2017,1000012,1,4,5,1,2,1,3,Wonderful,101,56
